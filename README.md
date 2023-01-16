@@ -1,5 +1,5 @@
 -  Hi, I’m Janvi
--  I’m currently doing a Msc in Computer Science.
+-  I’m currently doing Msc in Computer Science.
 -  I’m extremely passionate about technology and my field of interests include Automation and Artificial Intelligence.
 -  Connect with me if you think we can be helpful to each other!
 
